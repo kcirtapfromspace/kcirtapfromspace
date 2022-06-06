@@ -14,4 +14,5 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/patrickdeutsch/">LinkedIn</a>
 
 ## Watch my contributions get eaten by a snake 🐍
+
 ![snake gif](https://github.com/kcirtapfromspace/Actions/blob/output/github-contribution-grid-snake.svg)
