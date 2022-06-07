@@ -15,7 +15,5 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-![snake gif](https://github.com/kcirtapfromspace/Actions/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/kcirtapfromspace/Actions/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/kcirtapfromspace/Actions/blob/output/github-snake-dark.svg#gh-dark-mode-only)
