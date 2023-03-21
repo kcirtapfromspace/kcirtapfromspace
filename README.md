@@ -12,6 +12,7 @@
 ## Find me around the web
 
 - Sharing updates on <a href="https://www.linkedin.com/in/patrickdeutsch/">LinkedIn</a>
+- Sharing updates on <a href="https://kcirtapfromspace.substack.com/">Substack</a>
 
 ## Watch my contributions get eaten by a snake 🐍
 
