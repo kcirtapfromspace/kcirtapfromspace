@@ -7,12 +7,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-&nbsp;I'm currently a Infrastructure Architect exploring Data Mesh, K8s, & amongst other things. 
-
+&nbsp; I'm currently a Lead Infrastructure Architect who builds distributed platforms that enable teams and governance through concepts & technology. 
 ## Find me around the web
 
-- Sharing updates on <a href="https://www.linkedin.com/in/patrickdeutsch/">LinkedIn</a>
-- Sharing updates on <a href="https://kcirtapfromspace.substack.com/">Substack</a>
+-  Sharing updates on <a href="https://www.linkedin.com/in/patrickdeutsch/">LinkedIn</a>
+-  Longer thoughts on my  <a href="https://kcirtap.io/"> Tech Blog </a>
 
 ## Watch my contributions get eaten by a snake 🐍
 
