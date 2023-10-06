@@ -22,7 +22,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - uses: Platane/snk@v2
+    - uses: Platane/snk@v3
       with:
         # github user name to read the contribution graph from (**required**)
         # using action context var `github.repository_owner` or specified user
@@ -45,7 +45,7 @@ jobs:
         # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
     - name: push github-contribution-grid-snake.svg to the output branch
-      uses: crazy-max/ghaction-github-pages@v2.6.0
+      uses: crazy-max/ghaction-github-pages@v4
       with:
         target_branch: output
         build_dir: dist
