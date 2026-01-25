@@ -25,10 +25,6 @@ I build pragmatic distributed platforms: reliability, developer velocity, securi
 - 📈 [off-quant](https://github.com/kcirtapfromspace/off-quant) — tooling + workflows around research, automation, and trading experiments
 - 🧰 [ralph-machineo](https://github.com/kcirtapfromspace/ralph-machineo) — automation + scaffolding for shipping work in small, testable slices
 
-## Planning / Kanban
-
-- 🗂️ [Clawdban (GitHub Project #2)](https://github.com/users/kcirtapfromspace/projects/2) — personal kanban for focus and follow-through
-
 ## Find me around the web
 
 - LinkedIn: https://www.linkedin.com/in/patrickdeutsch/
