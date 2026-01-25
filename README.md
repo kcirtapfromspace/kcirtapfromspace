@@ -14,9 +14,7 @@
 
 I build pragmatic distributed platforms: reliability, developer velocity, security, and governance — without the enterprise theater.
 
-✍️ Writing: https://kcirtapfromspace.github.io/kcirtap-blog (new)
-- Notes repo (Obsidian vault → GitHub): https://github.com/kcirtapfromspace/obsidian
-- Legacy blog repo (deprecating): https://github.com/kcirtapfromspace/kcirtap.io
+✍️ Writing (Obsidian vault → GitHub → Blog): https://kcirtapfromspace.github.io/kcirtap-blog
 
 ## Current Projects
 
