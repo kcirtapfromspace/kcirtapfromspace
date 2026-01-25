@@ -1,17 +1,38 @@
-# Hi, I'm Patrick 👻
+# Hi, I’m Patrick (kcirtapfromspace)
 
-![GitHub followers](https://img.shields.io/github/followers/kcirtapfromspace?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=kcirtapfromspace&color=brightgreen">  
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2ISJ5)
-## 👨🏻‍💻 &nbsp;About Me
+Lead Infrastructure / Platform Architect building pragmatic systems for reliability, velocity, and governance.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+- Blog: https://kcirtapfromspace.github.io/kcirtap-blog (new)  
+  - Source notes: https://github.com/kcirtapfromspace/obsidian (Obsidian vault)  
+  - Legacy blog repo (deprecating): https://github.com/kcirtapfromspace/kcirtap.io
 
-&nbsp; I'm currently a Lead Infrastructure Architect who builds distributed platforms that enable teams and governance through concepts & technology. 
+## What I’ve been working on lately
+
+### Shipping & hardening
+- **no_drake_in_the_house** — platform/security hardening work, CI, and operational cleanup  
+  https://github.com/kcirtapfromspace/no_drake_in_the_house
+
+### Product experiments
+- **offleash** — scheduling/booking platform experiments (multi-tenant + workflow automation)  
+  https://github.com/kcirtapfromspace/offleash
+
+### Trading / quant tooling
+- **off-quant** — tools and workflows for running experiments and automation around trading ideas  
+  https://github.com/kcirtapfromspace/off-quant
+
+### AI-assisted delivery tooling
+- **ralph-machineo** — automation and workflow scaffolding for shipping work in small, testable slices  
+  https://github.com/kcirtapfromspace/ralph-machineo
+
+## Planning / Kanban
+- **Clawdban (GitHub Project #2)** — personal kanban for focus and follow-through  
+  https://github.com/users/kcirtapfromspace/projects/2
+
 ## Find me around the web
+- LinkedIn: https://www.linkedin.com/in/patrickdeutsch/
+- GitHub: https://github.com/kcirtapfromspace
 
--  Sharing updates on <a href="https://www.linkedin.com/in/patrickdeutsch/">LinkedIn</a>
--  Longer thoughts on my  <a href="https://kcirtap.io/"> Tech Blog </a>
+---
 
 ## Watch my contributions get eaten by a snake 🐍
 
