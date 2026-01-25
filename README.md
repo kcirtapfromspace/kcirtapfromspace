@@ -1,17 +1,36 @@
-# Hi, I'm Patrick 👻
+# Hi, I'm Patrick 👋
 
-![GitHub followers](https://img.shields.io/github/followers/kcirtapfromspace?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=kcirtapfromspace&color=brightgreen">  
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B2ISJ5)
-## 👨🏻‍💻 &nbsp;About Me
+📍 Denver | 🏗️ Platform/Infrastructure Architect | 👨‍👩‍👧 Dad | 🐶 Corgi wrangler
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-&nbsp; I'm currently a Lead Infrastructure Architect who builds distributed platforms that enable teams and governance through concepts & technology. 
+I build pragmatic distributed platforms: reliability, developer velocity, security, and governance — without the enterprise theater.
+
+✍️ Writing: https://kcirtapfromspace.github.io/kcirtap-blog (new)
+- Notes repo (Obsidian vault → GitHub): https://github.com/kcirtapfromspace/obsidian
+- Legacy blog repo (deprecating): https://github.com/kcirtapfromspace/kcirtap.io
+
+## Current Projects
+
+- 🛡️ [no_drake_in_the_house](https://github.com/kcirtapfromspace/no_drake_in_the_house) — platform hardening, CI, security hygiene, and operational cleanup
+- 🐕 [offleash](https://github.com/kcirtapfromspace/offleash) — scheduling/booking platform experiments (multi-tenant + workflow automation)
+- 📈 [off-quant](https://github.com/kcirtapfromspace/off-quant) — tooling + workflows around research, automation, and trading experiments
+- 🧰 [ralph-machineo](https://github.com/kcirtapfromspace/ralph-machineo) — automation + scaffolding for shipping work in small, testable slices
+
 ## Find me around the web
 
--  Sharing updates on <a href="https://www.linkedin.com/in/patrickdeutsch/">LinkedIn</a>
--  Longer thoughts on my  <a href="https://kcirtap.io/"> Tech Blog </a>
+- LinkedIn: https://www.linkedin.com/in/patrickdeutsch/
+- GitHub: https://github.com/kcirtapfromspace
+
+---
 
 ## Watch my contributions get eaten by a snake 🐍
 
