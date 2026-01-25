@@ -1,34 +1,34 @@
-# Hi, I’m Patrick (kcirtapfromspace)
+# Hi, I’m Patrick 👋
 
-Lead Infrastructure / Platform Architect building pragmatic systems for reliability, velocity, and governance.
+📍 Denver | 🏗️ Lead Infrastructure / Platform Architect | 👨‍👩‍👧 Dad | 🐶 Corgi wrangler
 
-- Blog: https://kcirtapfromspace.github.io/kcirtap-blog (new)  
-  - Source notes: https://github.com/kcirtapfromspace/obsidian (Obsidian vault)  
+I build pragmatic distributed platforms: reliability, developer velocity, security, and governance — without the enterprise theater.
+
+- Writing: https://kcirtapfromspace.github.io/kcirtap-blog (new)
+  - Source notes (Obsidian vault → GitHub): https://github.com/kcirtapfromspace/obsidian
   - Legacy blog repo (deprecating): https://github.com/kcirtapfromspace/kcirtap.io
 
-## What I’ve been working on lately
+## Current projects
 
-### Shipping & hardening
-- **no_drake_in_the_house** — platform/security hardening work, CI, and operational cleanup  
+- 🛡️ **no_drake_in_the_house** — platform hardening, CI, security hygiene, and operational cleanup  
   https://github.com/kcirtapfromspace/no_drake_in_the_house
 
-### Product experiments
-- **offleash** — scheduling/booking platform experiments (multi-tenant + workflow automation)  
+- 🐕 **offleash** — scheduling/booking platform experiments (multi-tenant + workflow automation)  
   https://github.com/kcirtapfromspace/offleash
 
-### Trading / quant tooling
-- **off-quant** — tools and workflows for running experiments and automation around trading ideas  
+- 📈 **off-quant** — tooling + workflows around research, automation, and trading experiments  
   https://github.com/kcirtapfromspace/off-quant
 
-### AI-assisted delivery tooling
-- **ralph-machineo** — automation and workflow scaffolding for shipping work in small, testable slices  
+- 🧰 **ralph-machineo** — automation + scaffolding for shipping work in small, testable slices  
   https://github.com/kcirtapfromspace/ralph-machineo
 
 ## Planning / Kanban
-- **Clawdban (GitHub Project #2)** — personal kanban for focus and follow-through  
+
+- 🗂️ **Clawdban (GitHub Project #2)** — personal kanban for focus and follow-through  
   https://github.com/users/kcirtapfromspace/projects/2
 
 ## Find me around the web
+
 - LinkedIn: https://www.linkedin.com/in/patrickdeutsch/
 - GitHub: https://github.com/kcirtapfromspace
 
