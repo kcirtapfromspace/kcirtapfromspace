@@ -14,10 +14,14 @@
 
 I build pragmatic distributed platforms: reliability, developer velocity, security, and governance — without the enterprise theater.
 
-✍️ Writing (Obsidian vault → GitHub → Blog): https://kcirtapfromspace.github.io/kcirtap-blog
+✍️ Writing (Obsidian vault → GitHub → Blog): https://kcirtap.io
+My Sudoku Game : https://ukodus.now
 
 ## Current Projects
 
+- [sudoku-core](https://github.com/kcirtapfromspace/sudoku-core) — A sudoku puzzle engine with proof validation 
+- [sudoku](https://github.com/kcirtapfromspace/sudoku) —  A WASM, TUI, & iOS apps for playing sudoku games
+- [ukodus](https://github.com/kcirtapfromspace/ukodus) —  A graph database, that build relationships puzzles, expands as more people play the game, collects telemetry from the tui/wasm/ios
 - 🛡️ [no_drake_in_the_house](https://github.com/kcirtapfromspace/no_drake_in_the_house) — platform hardening, CI, security hygiene, and operational cleanup
 - 🐕 [offleash](https://github.com/kcirtapfromspace/offleash) — scheduling/booking platform experiments (multi-tenant + workflow automation)
 - 📈 [off-quant](https://github.com/kcirtapfromspace/off-quant) — tooling + workflows around research, automation, and trading experiments
