@@ -19,6 +19,7 @@ My Sudoku Game : https://ukodus.now
 
 ## Current Projects
 
+- [opaque](https://github.com/kcirtapfromspace/opaque) — A means to attempt to gate LLM access to secrets
 - [sudoku-core](https://github.com/kcirtapfromspace/sudoku-core) — A sudoku puzzle engine with proof validation 
 - [sudoku](https://github.com/kcirtapfromspace/sudoku) —  A WASM, TUI, & iOS apps for playing sudoku games
 - [ukodus](https://github.com/kcirtapfromspace/ukodus) —  A graph database, that build relationships puzzles, expands as more people play the game, collects telemetry from the tui/wasm/ios
